@@ -3,7 +3,7 @@ import './App.css';
 import { useState } from 'react'
 
 const URL = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/nanaimo?unitGroup=metric&include=current&key=";
-const API = "42P7BL6VJWMM8PJJMUHAKS97J&contentType=json"
+const API = ""
 
 
 function App() {
